@@ -21,7 +21,7 @@ Make sure to have Firefox and Chrome browsers installed and their respective dri
 ## Usage
 
 1. Add the URLs you want to capture in the `urls.txt` file, one per line.
-2. Run the script using `python screenshot.py`.
+2. Run the script using `python3 screenshot.py`.
 3. The screenshots will be saved in the `screenshots` directory.
 
 Follow me on Twitter: [@r00td3str0y3r](https://twitter.com/r00td3str0y3r)
