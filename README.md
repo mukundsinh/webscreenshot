@@ -16,6 +16,8 @@ This is a Python script that uses Selenium to take screenshots of multiple websi
 2. Create a virtual environment and activate it.
 3. Install the required packages using `pip install -r requirements.txt`
 
+Make sure to have Firefox and Chrome browsers installed and their respective drivers placed in your system's PATH or installed through webdriver-manager.
+
 ## Usage
 
 1. Add the URLs you want to capture in the `urls.txt` file, one per line.
