@@ -1,4 +1,4 @@
-# webscreenshot
+# Webscreenshot
 A script to take webscreenshots.
 
 # Website Screenshot Utility
